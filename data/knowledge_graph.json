@@ -1,0 +1,26 @@
+[
+  {
+    "concept": "tachycardia",
+    "aliases": ["high heart rate"],
+    "relation": "may be associated with",
+    "related_concept": "increased heart rate"
+  },
+  {
+    "concept": "hypoxemia",
+    "aliases": ["low oxygen saturation"],
+    "relation": "is characterized by",
+    "related_concept": "reduced blood oxygen"
+  },
+  {
+    "concept": "fever",
+    "aliases": ["high temperature"],
+    "relation": "may indicate",
+    "related_concept": "elevated body temperature"
+  },
+  {
+    "concept": "hypertension",
+    "aliases": ["high blood pressure"],
+    "relation": "is associated with",
+    "related_concept": "elevated blood pressure"
+  }
+]
